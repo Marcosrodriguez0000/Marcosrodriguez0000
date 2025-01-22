@@ -4,7 +4,7 @@
 
 # ¡Hola! 👋 Soy Marcos Rodríguez
 
-## 💻 Desarrollador Full Stack & Estudiante de DAM
+## 💻 Desarrollador software y web & Estudiante de DAM
 
 Soy un desarrollador apasionado enfocado en el desarrollo web, móvil y de escritorio, con experiencia en la creación de aplicaciones del mundo real, especialización en modelos de aprendizaje automático y desarrollo de juegos.
 
@@ -61,7 +61,7 @@ const proyectos = [
     },
     {
         tipo: "Desarrollo Web",
-        tecnologías: ["React", "Spring Boot", "Java Servlet", "MySQL"],
+        tecnologías: ["React", "Spring Boot", "Java Servlet", "MySQL", "HTML5", "CSS3", "JavaScript"],
         enfoque: "Aplicaciones Full Stack"
     },
     {
@@ -83,8 +83,8 @@ const proyectos = [
 ```
 
 ### 📫 Contacto
-- [LinkedIn] (Tu perfil de LinkedIn)
-- [Email] (Tu email profesional)
+- [LinkedIn] (https://www.linkedin.com/in/marcos-rodriguez-p%C3%A9rez-2150382aa/)
+- [Email] (marcos04486@gmail.com)
 
 ### ⚡ Datos Interesantes
 - 🔍 Especializado en desarrollo multiplataforma
@@ -105,5 +105,4 @@ while vivo:
     crear_juegos()
     analizar_datos()
     aprender_tecnologias_nuevas()
-    repetir()
 ```
